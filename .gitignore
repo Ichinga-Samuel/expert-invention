@@ -1,0 +1,6 @@
+*.csv
+*.pdf
+.env
+.idea/
+venv/
+__pycache__/
